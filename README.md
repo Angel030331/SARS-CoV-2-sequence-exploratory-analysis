@@ -16,5 +16,7 @@ mafft --help
 
 The analysis can be done on local computer or on ssh server.
 
+### 3. Biopython for sequence analysis (comparison)
+
 
 
