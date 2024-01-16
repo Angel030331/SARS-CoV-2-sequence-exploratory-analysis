@@ -17,6 +17,17 @@ mafft --help
 The analysis can be done on local computer or on ssh server.
 
 ### 3. Biopython for sequence analysis (comparison)
+available packages
 
+from Bio import SeqIO
+from Bio.Seq import Seq
+from Bio.Data import CodonTable
+
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+from sklearn import metrics
+import seaborn as sns
+import ete3
 
 
